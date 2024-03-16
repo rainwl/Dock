@@ -20,3 +20,7 @@ obj/
 远程维修指导平台/
 
 UserSettings/
+
+Temp/
+
+build/
